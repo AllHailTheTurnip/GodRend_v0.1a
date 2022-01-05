@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GodRend_v0.1a/1.0.0": {
+        "dependencies": {
+          "GodRendSource": "1.0.0"
+        },
+        "runtime": {
+          "GodRend_v0.1a.dll": {}
+        }
+      },
+      "GodRendSource/1.0.0": {
+        "runtime": {
+          "GodRendSource.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GodRend_v0.1a/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GodRendSource/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

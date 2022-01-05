@@ -1,0 +1,12 @@
+C:\Users\termi\RiderProjects\GodRend_v0.1a\GodRendSource\obj\Debug\net5.0\GodRendSource.csproj.AssemblyReference.cache
+C:\Users\termi\RiderProjects\GodRend_v0.1a\GodRendSource\obj\Debug\net5.0\GodRendSource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\termi\RiderProjects\GodRend_v0.1a\GodRendSource\obj\Debug\net5.0\GodRendSource.AssemblyInfoInputs.cache
+C:\Users\termi\RiderProjects\GodRend_v0.1a\GodRendSource\obj\Debug\net5.0\GodRendSource.AssemblyInfo.cs
+C:\Users\termi\RiderProjects\GodRend_v0.1a\GodRendSource\obj\Debug\net5.0\GodRendSource.csproj.CoreCompileInputs.cache
+C:\Users\termi\RiderProjects\GodRend_v0.1a\GodRendSource\bin\Debug\net5.0\GodRendSource.deps.json
+C:\Users\termi\RiderProjects\GodRend_v0.1a\GodRendSource\bin\Debug\net5.0\GodRendSource.dll
+C:\Users\termi\RiderProjects\GodRend_v0.1a\GodRendSource\bin\Debug\net5.0\ref\GodRendSource.dll
+C:\Users\termi\RiderProjects\GodRend_v0.1a\GodRendSource\bin\Debug\net5.0\GodRendSource.pdb
+C:\Users\termi\RiderProjects\GodRend_v0.1a\GodRendSource\obj\Debug\net5.0\GodRendSource.dll
+C:\Users\termi\RiderProjects\GodRend_v0.1a\GodRendSource\obj\Debug\net5.0\ref\GodRendSource.dll
+C:\Users\termi\RiderProjects\GodRend_v0.1a\GodRendSource\obj\Debug\net5.0\GodRendSource.pdb

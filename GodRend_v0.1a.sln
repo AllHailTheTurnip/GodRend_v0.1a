@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodRend_v0.1a", "GodRend_v0.1a\GodRend_v0.1a.csproj", "{0F1661B2-EC48-4CBD-B920-D135078FBC01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodRendSource", "GodRendSource\GodRendSource.csproj", "{40AE1A03-09CB-41BA-8106-CAA93694F3E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceCodeTests", "SourceCodeTests\SourceCodeTests.csproj", "{6AF061C4-762D-4ED8-BF58-990B7ECF3079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F1661B2-EC48-4CBD-B920-D135078FBC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1661B2-EC48-4CBD-B920-D135078FBC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1661B2-EC48-4CBD-B920-D135078FBC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1661B2-EC48-4CBD-B920-D135078FBC01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40AE1A03-09CB-41BA-8106-CAA93694F3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AE1A03-09CB-41BA-8106-CAA93694F3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AE1A03-09CB-41BA-8106-CAA93694F3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AE1A03-09CB-41BA-8106-CAA93694F3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF061C4-762D-4ED8-BF58-990B7ECF3079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF061C4-762D-4ED8-BF58-990B7ECF3079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF061C4-762D-4ED8-BF58-990B7ECF3079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF061C4-762D-4ED8-BF58-990B7ECF3079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
